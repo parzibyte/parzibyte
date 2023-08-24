@@ -14,6 +14,7 @@
 - [Restaurante](https://parzibyte.me/blog/2023/04/18/sistema-gratuito-restaurantes/)
 - [Restaurante Linux](https://parzibyte.me/blog/2023/08/04/sistema-restaurantes-gratuito-linux/)
 - [Control escolar educación básica](https://parzibyte.me/blog/2021/03/31/software-control-asistencia-tareas-escolares-gratuito/)
+- [Software textil](https://parzibyte.me/blog/2023/08/24/sistema-gratuito-textil-gestion-maquiladora/)
 
 ## Plugins
 - [ESC POS impresoras térmicas](https://parzibyte.me/blog/2022/09/30/plugin-impresoras-termicas-version-3/)
