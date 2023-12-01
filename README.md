@@ -5,6 +5,7 @@
 - 📫 Contacto: https://parzibyte.me/#contacto
 
 ## Sistemas gratuitos
+- 🖨️ [Diseñador para impresoras térmicas](https://parzibyte.me/apps/ticket-designer/#/first-steps)
 - [Punto de venta para Windows](https://parzibyte.me/blog/2021/04/13/sistema-ventas-gratuito-windows/)
 - [Punto de venta Android](https://parzibyte.me/blog/2022/05/04/punto-venta-gratuito-android-usalo-telefono-tableta/)
 - [Punto de venta Raspberry Pi](https://parzibyte.me/blog/2022/11/21/punto-venta-gratis-raspberry-pi/)
