@@ -6,9 +6,7 @@
 
 ## Sistemas gratuitos
 - 🖨️ [Diseñador para impresoras térmicas](https://parzibyte.me/apps/ticket-designer/#/first-steps)
-- [Punto de venta para Windows](https://parzibyte.me/blog/2021/04/13/sistema-ventas-gratuito-windows/)
-- [Punto de venta Android](https://parzibyte.me/blog/2022/05/04/punto-venta-gratuito-android-usalo-telefono-tableta/)
-- [Punto de venta Raspberry Pi](https://parzibyte.me/blog/2022/11/21/punto-venta-gratis-raspberry-pi/)
+- [Punto de venta multiplataforma](https://parzibyte.me/apps/pos/#/login)
 - [Estacionamiento Windows](https://parzibyte.me/blog/2021/05/11/sistema-estacionamientos-gratuito-open-source/)
 - [Parqueadero Linux](https://parzibyte.me/blog/2023/08/03/sistema-gratuito-estacionamiento-linux/)
 - [Renta de consolas](https://parzibyte.me/blog/2021/11/08/sistema-gratuito-renta-consolas-videojuegos/)
